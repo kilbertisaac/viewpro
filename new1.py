@@ -1,4 +1,5 @@
 
+a=250
+b=40
 c='onum illa solla'
-d=101
-print(a+d)
+
