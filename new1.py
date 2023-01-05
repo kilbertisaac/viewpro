@@ -1,4 +1,5 @@
 
-d='having so the way0'
-e=20
-print(c+d)
+a=250
+b=40
+c='onum illa solla'
+print(a+b)
