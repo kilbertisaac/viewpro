@@ -1,5 +1,3 @@
-
-a=200
-b=40
-c=24
-print(a+b)
+e='say some thing'
+d=101
+print(e+c)
