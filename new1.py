@@ -1,3 +1,4 @@
-e='say some thing'
-d=101
-print(e+c)
+
+a=250
+b=40
+print(a+b)
