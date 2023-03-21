@@ -1,2 +1,5 @@
-z='say some content'
-print(z+c)
+
+a=250
+b=40
+c='onum illa solla'
+print(a+b)
